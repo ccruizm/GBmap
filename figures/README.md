@@ -1,1 +1,1 @@
-Code to generate the produce the figures from the manuscript
+Code to generate and produce the figures from the manuscript
